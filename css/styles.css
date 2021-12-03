@@ -149,6 +149,10 @@ a:hover{
 }
 .copywrite-footer{
   margin-bottom: 0;
+  font-size: 0.75rem;
+  display: inline-block;
+  position: relative;
+  top: 20px
 }
 body{
   margin: 0px;
