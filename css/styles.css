@@ -39,6 +39,10 @@
   padding-bottom: 10px;
 
 }
+.profile {
+  margin: 0 auto;
+  width: 50%;
+}
 .bottom-container{
   background-color: #B9FFFC;
   height: 100px;
